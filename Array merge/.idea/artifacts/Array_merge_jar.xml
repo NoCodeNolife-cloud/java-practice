@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Array merge:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Array_merge_jar</output-path>
+    <root id="archive" name="Array merge.jar">
+      <element id="module-output" name="Array merge" />
+    </root>
+  </artifact>
+</component>

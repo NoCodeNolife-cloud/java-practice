@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="Ternary operator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Ternary_operator_jar</output-path>
+    <root id="root">
+      <element id="archive" name="Ternary operator.jar">
+        <element id="module-output" name="Ternary operator" />
+      </element>
+    </root>
+  </artifact>
+</component>
