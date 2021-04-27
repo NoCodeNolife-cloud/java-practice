@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Array merge.iml" filepath="$PROJECT_DIR$/Array merge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String count.iml" filepath="$PROJECT_DIR$/String count.iml" />
     </modules>
   </component>
 </project>
