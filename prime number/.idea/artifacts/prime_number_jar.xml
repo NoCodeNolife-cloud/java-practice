@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="prime number:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/prime_number_jar</output-path>
+    <root id="root">
+      <element id="archive" name="prime number.jar">
+        <element id="module-output" name="prime number" />
+      </element>
+    </root>
+  </artifact>
+</component>
