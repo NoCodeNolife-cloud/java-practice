@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Decimal converts to binary:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Decimal_converts_to_binary_jar</output-path>
+    <root id="archive" name="Decimal converts to binary.jar">
+      <element id="module-output" name="Decimal converts to binary" />
+    </root>
+  </artifact>
+</component>
