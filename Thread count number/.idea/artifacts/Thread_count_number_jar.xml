@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Thread count number:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Thread_count_number_jar</output-path>
+    <root id="archive" name="Thread count number.jar">
+      <element id="module-output" name="Thread count number" />
+    </root>
+  </artifact>
+</component>
