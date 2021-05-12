@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="JTable:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JTable_jar</output-path>
+    <root id="root">
+      <element id="archive" name="JTable.jar">
+        <element id="module-output" name="JTable" />
+      </element>
+    </root>
+  </artifact>
+</component>
