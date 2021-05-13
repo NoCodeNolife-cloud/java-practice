@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Traversal string:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Traversal_string_jar</output-path>
+    <root id="archive" name="Traversal string.jar">
+      <element id="module-output" name="Traversal string" />
+    </root>
+  </artifact>
+</component>
