@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="for each initialization:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/for_each_initialization_jar</output-path>
+    <root id="archive" name="for each initialization.jar">
+      <element id="module-output" name="for each initialization" />
+    </root>
+  </artifact>
+</component>

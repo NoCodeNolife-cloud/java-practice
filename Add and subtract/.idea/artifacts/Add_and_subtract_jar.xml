@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Add and subtract:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Add_and_subtract_jar</output-path>
+    <root id="archive" name="Add and subtract.jar">
+      <element id="module-output" name="Add and subtract" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Specified interval prime:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Specified_interval_prime_jar</output-path>
+    <root id="archive" name="Specified interval prime.jar">
+      <element id="module-output" name="Specified interval prime" />
+    </root>
+  </artifact>
+</component>

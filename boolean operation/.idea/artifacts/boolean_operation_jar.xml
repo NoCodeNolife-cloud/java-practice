@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="boolean operation:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/boolean_operation_jar</output-path>
+    <root id="archive" name="boolean operation.jar">
+      <element id="module-output" name="boolean operation" />
+    </root>
+  </artifact>
+</component>

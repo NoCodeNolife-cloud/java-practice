@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="JComboBox">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/JComboBox/out/artifacts/JComboBox_jar/JComboBox.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
