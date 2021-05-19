@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Through the array:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Through_the_array_jar</output-path>
+    <root id="archive" name="Through the array.jar">
+      <element id="module-output" name="Through the array" />
+    </root>
+  </artifact>
+</component>
