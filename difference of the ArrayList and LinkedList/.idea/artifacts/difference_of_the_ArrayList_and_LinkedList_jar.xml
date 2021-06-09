@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="difference of the ArrayList and LinkedList:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/difference_of_the_ArrayList_and_LinkedList_jar</output-path>
+    <root id="archive" name="difference of the ArrayList and LinkedList.jar">
+      <element id="module-output" name="difference of the ArrayList and LinkedList" />
+    </root>
+  </artifact>
+</component>
