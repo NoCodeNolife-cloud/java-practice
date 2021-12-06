@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="JTable">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/JTable/out/artifacts/JTable_jar/JTable.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
