@@ -1,4 +1,4 @@
-package com.company;
+package com.NoCodeNoLife;
 
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
