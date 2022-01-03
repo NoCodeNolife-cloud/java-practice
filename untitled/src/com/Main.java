@@ -1,16 +1,17 @@
 package com;
 
-import java.util.logging.Logger;
+import java.io.PrintWriter;
+import java.util.Scanner;
 
 public class Main {
 
-    static Logger logger = Logger.getLogger(String.valueOf(Main.class));
-
     public static void main(String[] args) {
-
-        logger.info("hello");
-        int x = 5;
-        logger.info("x = " + x);
+        Scanner scanner = new Scanner(System.in);
+        PrintWriter printWriter = new PrintWriter(System.out);
+        while (scanner.hasNext()) {
+            printWriter.println(scanner.nextLine());
+            printWriter.flush();
+        }
+        printWriter.close();
     }
-
 }
